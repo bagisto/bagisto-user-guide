@@ -9,7 +9,7 @@ npm run docs:build
 # navigate into the build output directory
 cd docs/.vuepress/dist
 
-echo 'userguide.bagisto.com' > CNAME
+echo 'docs.bagisto.com' > CNAME
 
 git init
 git add -A
