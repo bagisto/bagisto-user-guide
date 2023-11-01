@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "49061f3bacf402e6c7f1bd79e2f5227e"
+    "revision": "44a78dc5b4bb262affb5a5c8aa0ecf55"
   },
   {
     "url": "assets/css/0.styles.fbbe2a77.css",
@@ -70,12 +70,12 @@ self.__precacheManifest = [
     "revision": "01f9a03c35d62167d081b18de33c7521"
   },
   {
-    "url": "assets/js/app.209dced6.js",
-    "revision": "a908f7f3c58cee23d1dd9512d7c3aaed"
+    "url": "assets/js/app.c197e812.js",
+    "revision": "e6646bd3ad5fd9ab4fa7de2552d9c762"
   },
   {
     "url": "index.html",
-    "revision": "c53d6236c85862b5641ea1e9e5c2529a"
+    "revision": "4e718254593d71adc6db9eee7eb8db82"
   },
   {
     "url": "logo.png",
@@ -83,15 +83,15 @@ self.__precacheManifest = [
   },
   {
     "url": "prologue/contribution-guide.html",
-    "revision": "68a00abcf856a05c32df25110e31e7ba"
+    "revision": "bd7cad9c23fc952e1c33cd26fd57a638"
   },
   {
     "url": "prologue/index.html",
-    "revision": "98b3f5cf4d35a14ef0b97b7a67a3a334"
+    "revision": "be2ab2094d6305f95c43b5195a3ccf85"
   },
   {
     "url": "prologue/upgrade-guide.html",
-    "revision": "8cdcf80275f5b69dd5c78e533b5f014d"
+    "revision": "66ab1a41bfec8be7d476e921c26dfffa"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
